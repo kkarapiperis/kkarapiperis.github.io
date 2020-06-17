@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Konstantinos <strong>Karapiperis</strong>
+title                    : "Konstantinos Karapiperis"
 title_separator          : "-"
 name                     : &name "Konstantinos Karapiperis"
 description              : &description "PhD Candidate at Caltech"
