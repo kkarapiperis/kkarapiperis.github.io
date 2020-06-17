@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the [Mechanical and Civil Engineering](https://http://mce.caltech.edu/) Department at Caltech. I am also part of the [Complex Systems Modeling](https://http://cosymo.caltech.edu/) group supervised by Prof. Jose Andrade. My research focuses on data-driven, multiscale and complex-systems modeling of granular materials.
+I am a PhD candidate at the [Mechanical and Civil Engineering](https://http://mce.caltech.edu/) Department at Caltech. My research focuses on data-driven, multiscale and complex-systems modeling of granular materials.
+
+Resarch group: [Complex Systems Modeling](https://http://cosymo.caltech.edu/)
