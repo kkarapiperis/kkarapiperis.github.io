@@ -1,6 +1,7 @@
 ---
 title: Project 3
 excerpt: "Short description of portfolio item number 3. align=right>"
+img: "/images/projectZeroG.jpg"
 collection: portfolio
 ---
 
