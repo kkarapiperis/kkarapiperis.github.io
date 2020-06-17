@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Project 1
-excerpt: 
 description: test project description
 collection: portfolio
 img: /images/image-alignment-150x150.jpg
