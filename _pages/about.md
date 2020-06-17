@@ -10,4 +10,4 @@ redirect_from:
 
 I am a PhD candidate at the [Mechanical and Civil Engineering](https://http://mce.caltech.edu/) Department at Caltech. My research focuses on data-driven, multiscale and complex-systems modeling of granular materials.
 
-Resarch group: [Complex Systems Modeling](https://http://cosymo.caltech.edu/)
+# Research group: [Complex Systems Modeling](https://http://cosymo.caltech.edu/)
