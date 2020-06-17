@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Project 1
-description: Effect of reduci
 collection: portfolio
+excerpt:"Short description of portfolio item number 1. Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum "
 img: /images/projectZeroG.jpg
 ---
 
