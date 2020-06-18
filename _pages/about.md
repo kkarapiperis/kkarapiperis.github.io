@@ -12,6 +12,8 @@ I am a PhD candidate in the [Mechanical and Civil Engineering](https://http://mc
 
 <!-- Research group: [Complex Systems Modeling](https://http://cosymo.caltech.edu/) -->
 
+## News ##
+
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
