@@ -1,7 +1,7 @@
 ---
 title: 'COSYMO @ Caltech'
 date: 2020-01-06
-permalink: /news/news-1/
+permalink: /posts/news-1/
 tags:
   - cosymo
   - caltech
