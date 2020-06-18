@@ -47,10 +47,10 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <img src="{{ site.baseurl }}/images/{{ post.img }}" width="256" align=right vertical-align: test-top; margin-left: 10px;>
+    <img src="{{ site.baseurl }}/images/{{ post.img }}" width="200" align=right vertical-align: test-top; margin-left: 10px;>
     <span class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</span>
     {% elsif post.excerpt and site.read_more == 'enabled' %}                                                           
-    <img src="{{ site.baseurl }}/images/{{ post.img }}" width="256" align=right vertical-align: test-top; margin-left: 10px; >
+    <img src="{{ site.baseurl }}/images/{{ post.img }}" width="200" align=right vertical-align: test-top; margin-left: 10px; >
     <span class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></span>
     {% endif %}
     
