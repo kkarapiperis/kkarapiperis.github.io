@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-(Under construction. See my <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>)
+(Under construction. See my <a href="{{author.googlescholar}}">Google Scholar</a> profile)
 
  <!--- 
 {% for post in site.publications reversed %}
