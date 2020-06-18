@@ -13,10 +13,7 @@ author_profile: true
 
 (Under construction. See my <a href="{{author.googlescholar}}">Google Scholar</a> profile)
 
-
-Test comment1
 {% comment %}
-Test comment2
 {% for post in site.publications reversed %}
  {% include archive-single.html %}
 {% endfor %}
