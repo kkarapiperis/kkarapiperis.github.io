@@ -15,8 +15,5 @@ I am a PhD candidate in the [Mechanical and Civil Engineering](https://http://mc
 ## News ##
 
 {% for post in site.posts %}
-  {% if year != written_year %}
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
