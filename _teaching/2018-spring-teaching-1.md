@@ -1,11 +1,10 @@
 ---
-title: "Mechanics of Porous Media"
+title: "Mechanics and Rheology of Fluid-Infiltrated Porous Media"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/teaching-1
+permalink: https://catalog.caltech.edu/current/me
 venue: "Caltech"
 date: 2018-01-01
 location: "Pasadena, CA, USA"
 ---
 
-CE163, Caltech
