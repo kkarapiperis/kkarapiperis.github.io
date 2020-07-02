@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Mechanical and Civil Engineering](https://http://mce.caltech.edu/) Department at Caltech. My research focuses on data-driven, multiscale and complex-systems modeling of granular materials.
+I am a PhD candidate in the [Mechanical and Civil Engineering](https://http://mce.caltech.edu/) Department at Caltech. My research focuses on data-driven, multiscale and complex-systems modeling of granular materials. Previously I have studied stochastic inelasticity of materials, in UC Davis and reduced-order modeling of infrastructure systems in NTUA, Greece.
 
 <!-- Research group: [Complex Systems Modeling](https://http://cosymo.caltech.edu/) -->
 
