@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Mechanical and Civil Engineering](https://http://mce.caltech.edu/) Department at Caltech. My research focuses on data-driven, multiscale and complex-systems modeling of granular materials. Previously, I have studied stochastic inelasticity of materials, in UC Davis, and reduced-order modeling of foundation systems, in NTUA, Greece.
+I am a Marie-Curie Postdoctoral Scholar at the [Mechanics and Materials Laboratory](https://mm.ethz.ch/) at ETH Zürich. My research focuses on data-driven, multiscale and complex-systems modeling and design of disordered materials. I received my PhD in Applied Mechanics from Caltech at 2020. I also hold a minor in Applied and Computational Mathematics from Caltech and MSc's in Civil Engineering from UC Davis and the National Technical University of Athens.
 
 <!-- Research group: [Complex Systems Modeling](https://http://cosymo.caltech.edu/) -->
 
