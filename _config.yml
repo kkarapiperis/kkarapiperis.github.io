@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Konstantinos Karapiperis"
 title_separator          : "-"
 name                     : &name "Konstantinos Karapiperis"
-description              : &description "PhD Candidate at Caltech"
+description              : &description "Postdoctoral Fellow @ ETHZ"
 url                      : https://kkarapiperis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kkarapiperis/kkarapiperis.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Konstantinos Karapiperis"
   avatar           : "profile.png"
-  bio              : "PhD Candidate @ Caltech"
-  location         : "Pasadena, CA"
+  bio              : "Postdoctoral Fellow @ ETHZ"
+  location         : "Zürich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=el&user=ydUeddEAAAAJ"
