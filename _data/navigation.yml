@@ -3,6 +3,9 @@ main:
      
   - title: "Projects"
     url: /portfolio/
+
+  - title: "D4M"
+    url: /d4m-msca/
     
   - title: "Publications"
     url: /publications/
